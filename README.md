@@ -12,4 +12,4 @@ job_desc = """
 
 And then run this code It will generate the score:
 
-<img width="400" alt="Screenshot 2025-01-13 at 12 16 41 AM" src="https://github.com/user-attachments/assets/1be391f0-5641-4649-98ea-99e6566959ac" />
+<img width="600" alt="Screenshot 2025-01-13 at 12 16 41 AM" src="https://github.com/user-attachments/assets/1be391f0-5641-4649-98ea-99e6566959ac" />
